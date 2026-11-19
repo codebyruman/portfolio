@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm --prefix ruman-portfolio run build",
+  "outputDirectory": "ruman-portfolio/dist",
+  "installCommand": "npm --prefix ruman-portfolio install"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "ruman-portfolio-root",
+  "private": true,
+  "scripts": {
+    "build": "npm --prefix ruman-portfolio run build",
+    "dev": "npm --prefix ruman-portfolio run dev"
+  }
+}
